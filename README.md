@@ -1,6 +1,6 @@
 # Diabetes-Patients
 
-##Dataset
+## Dataset
 
 the dataset contains the following columns:
 **Pregnancies**: This column records the number of times a patient has been pregnant.
@@ -23,12 +23,12 @@ the dataset contains the following columns:
        1: This indicates the presence of diabetes in the patient.
 
 
-##Objectifs
+## Objectifs
 
 The primary aim of this dataset is to use diagnostic measurements included in it to predict, with a diagnostic approach, whether a patient has diabetes or not.
 
 
-##Steps
+## Steps
 In this project, we will proceed through the following steps:
 
 **Data Loading**: Begin by importing essential libraries and loading the dataset to gain an understanding of its structure and contents.
